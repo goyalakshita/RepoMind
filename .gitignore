@@ -1,0 +1,22 @@
+# Environment variables
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Vector database
+chroma_db/
+
+# Sample repository
+sample_repo/
+
+# Generated data
+data/repositories/
+data/chat_history.json
+
+# Model cache
+.cache/
